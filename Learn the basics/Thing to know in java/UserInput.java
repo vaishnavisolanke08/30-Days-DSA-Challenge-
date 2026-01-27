@@ -4,5 +4,6 @@ public class UserInput{
         Scanner sc = new Scanner(System.in);
             int age = sc.nextInt();
             System.out.println(age);
+           
         }
     }
